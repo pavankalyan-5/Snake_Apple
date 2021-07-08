@@ -1,7 +1,7 @@
 ## Snake and Apple Game
-Building snake and apple game in `pygame and python`
+Snake and apple game in `pygame and python`
 
-Snake and apple is a simple game where when snake eats an apple it gets longer and your score increases. If you snake hits any part of its body it will die.
+Snake and apple is a simple game where when a snake eats an apple it gets longer and user score will gets incremented. If the snake hits its body the game will be completed.
 
 **Final source code is in 8_final_code_background_music.py**
 
